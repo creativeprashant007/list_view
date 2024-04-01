@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:list_view/pages/widgets.dart';
 
 import 'pages/home_page.dart';
 
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter List View'),
+      home: const StateLessWidgetExample(),
     );
   }
 }
