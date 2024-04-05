@@ -57,7 +57,7 @@ class StateLessWidgetExample extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 Text(
-                  "Widgets 3",
+                  "Widgets 4",
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
@@ -65,7 +65,7 @@ class StateLessWidgetExample extends StatelessWidget {
                   ),
                 ),
                 Text(
-                  "Widgets 4",
+                  "Widgets 5",
                   style: TextStyle(
                     color: Colors.white,
                     fontWeight: FontWeight.bold,
